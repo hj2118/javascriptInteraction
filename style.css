@@ -1,0 +1,26 @@
+body {
+  margin: 5vw 10vw 0px 10vw;
+  padding: 0px;
+  font-family: sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+body* {
+  box-sizing: border-box;
+}
+
+input, button {
+  font-size: 2rem;
+}
+
+#title {
+  trasition: all 2s;
+}
+
+#outputText {
+  /* background-color: #000; */
+  padding: 2vmin;
+}
